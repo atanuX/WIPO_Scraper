@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+~$*.xlsx
+wipo_downloads/
+checkpoint.txt
+completeness_result.txt
